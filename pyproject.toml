@@ -1,0 +1,16 @@
+[project]
+name = "advent-of-code-2025"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Grady Lynn",email = "gradylynn314@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel (>=7.1.0,<8.0.0)",
+    "numpy (>=2.3.5,<3.0.0)"
+]
+
+[tool.poetry]
+package-mode = false
